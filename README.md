@@ -3,5 +3,4 @@ The Farm Life is my new Farming Simulator/Adventure Game! I plan to release in M
 As I update The Farm Life the versions will be uploaded here!
 Released In Full: 1/27/22
 ##### **Current Status:** _v1.0.0 Full Release_
-![base](https://user-images.githubusercontent.com/97358009/151573391-881d78f4-e55a-4786-ab8a-904d292b0712.png)
-
+![base2](https://user-images.githubusercontent.com/97358009/151573656-f62b39d8-5fd0-45c7-9997-0c6e20642886.png)
